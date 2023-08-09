@@ -4,7 +4,7 @@ Bem-vindo ao meu projeto incrível! Este é um espaço onde compartilho minhas i
 
 ## Sobre
 
-//Este projeto visa resolver [descreva o problema que o projeto aborda]. Utilizei [linguagem/tecnologia/framework] para construir esta solução.
+Utilizei [linguagem/tecnologia/framework] para construir esta solução.
 
 ## Como Contribuir
 
@@ -21,5 +21,3 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 Você pode me encontrar em [LinkedIn](https://www.linkedin.com/in/wesley-scolaro-32648917b) ou [Whatsapp](https://wa.me/554197371327).
 
 ## Licença
-
-Este projeto está licenciado sob a [Nome da Licença]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
