@@ -1,10 +1,10 @@
-# Meu Projeto Incrível
+# Meu Projeto 
 
 Bem-vindo ao meu projeto incrível! Este é um espaço onde compartilho minhas ideias e trabalho duro. Sinta-se à vontade para explorar, contribuir e dar feedback.
 
 ## Sobre
 
-Este projeto visa resolver [descreva o problema que o projeto aborda]. Utilizei [linguagem/tecnologia/framework] para construir esta solução.
+//Este projeto visa resolver [descreva o problema que o projeto aborda]. Utilizei [linguagem/tecnologia/framework] para construir esta solução.
 
 ## Como Contribuir
 
