@@ -18,7 +18,7 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 
 ## Contato
 
-Você pode me encontrar em [LinkedIn](https://www.linkedin.com/in/wesley-scolaro-32648917b) ou [Twitter](seu-twitter).
+Você pode me encontrar em [LinkedIn](https://www.linkedin.com/in/wesley-scolaro-32648917b) ou [Whats](seu-twitter).
 
 ## Licença
 
