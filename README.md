@@ -18,6 +18,13 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 
 ## Contato
 
-Você pode me encontrar em [LinkedIn](https://www.linkedin.com/in/wesley-scolaro-32648917b) ou [Whatsapp](https://wa.me/554197371327).
+Você pode me encontrar em <br/>
+
+<a href="https://www.linkedin.com/in/wesley-scolaro-32648917b" target="_blank" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+<a href="https://wa.me/554197371327" target="_blank" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
+</a>
 
 ## Licença
