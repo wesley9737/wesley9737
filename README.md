@@ -1,24 +1,24 @@
-# Meu Projeto 
+<h3 align="left">My Project</h3>
 
-Bem-vindo ao meu projeto incrível! Este é um espaço onde compartilho minhas ideias e trabalho duro. Sinta-se à vontade para explorar, contribuir e dar feedback.
+Welcome to my amazing project! This is a space where I share my ideas and hard work. Feel free to explore, contribute, and provide feedback.
 
-## Sobre
+<h3 align="left">Abouts</h3>
 
-Utilizei [linguagem/tecnologia/framework] para construir esta solução.
+I used [language/technology/framework] to build this solution.
 
-## Como Contribuir
+<h3 align="left">How to Contribute</h3>
 
-Se você quiser contribuir para este projeto, siga estas etapas:
+If you want to contribute to this project, follow these steps:
 
-1. Faça um fork deste repositório.
-2. Crie um novo branch com sua modificação: `git checkout -b minha-modificacao`
-3. Faça suas alterações e commit: `git commit -m 'Adicionei uma nova funcionalidade'`
-4. Envie para o branch remoto: `git push origin minha-modificacao`
-5. Abra um Pull Request!
+1. Fork this repository.
+2. Create a new branch with your modification: `git checkout -b my-modification`
+3. Make your changes and commit: `git commit -m 'Added a new feature'`
+4. Push to the remote branch: `git push origin my-modification`
+5. Open a Pull Request!
 
-## Contato
+<h3 align="left">Contacts</h3>
 
-Você pode me encontrar em <br/>
+You can find me at <br/>
 
 <a href="https://www.linkedin.com/in/wesley-fabricio-scolaro-32648917b/" target="_blank" style="display: inline-block;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
@@ -27,5 +27,17 @@ Você pode me encontrar em <br/>
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
 </a>
 
+<h3 align="left">🛠 Language and Tools</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
 
-## Licença
+
+
