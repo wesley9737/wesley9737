@@ -2,10 +2,6 @@
 
 Welcome to my amazing project! This is a space where I share my ideas and hard work. Feel free to explore, contribute, and provide feedback.
 
-<h3 align="left">Abouts</h3>
-
-I used [language/technology/framework] to build this solution.
-
 <h3 align="left">Contacts</h3>
 
 You can find me at <br/>
