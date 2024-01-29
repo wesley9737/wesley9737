@@ -20,7 +20,7 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 
 Você pode me encontrar em <br/>
 
-<a href="https://www.linkedin.com/in/wesley-scolaro-32648917b" target="_blank" style="display: inline-block;">
+<a href="[https://www.linkedin.com/in/wesley-scolaro-32648917b](https://www.linkedin.com/in/wesley-fabricio-scolaro-32648917b/)" target="_blank" style="display: inline-block;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 <a href="https://wa.me/554197371327" target="_blank" style="display: inline-block;">
