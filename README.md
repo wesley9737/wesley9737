@@ -6,16 +6,6 @@ Welcome to my amazing project! This is a space where I share my ideas and hard w
 
 I used [language/technology/framework] to build this solution.
 
-<h3 align="left">How to Contribute</h3>
-
-If you want to contribute to this project, follow these steps:
-
-1. Fork this repository.
-2. Create a new branch with your modification: `git checkout -b my-modification`
-3. Make your changes and commit: `git commit -m 'Added a new feature'`
-4. Push to the remote branch: `git push origin my-modification`
-5. Open a Pull Request!
-
 <h3 align="left">Contacts</h3>
 
 You can find me at <br/>
