@@ -31,4 +31,4 @@ You can find me at <br/>
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
-
+![Snake animation](https://github.com/wesley9737/wesley9737./output/github-contribution-grd-snake.svg)
