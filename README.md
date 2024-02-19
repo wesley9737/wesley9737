@@ -1,4 +1,4 @@
-<h3 align="left">🚀My Project</h3>
+<h3 align="left">🧙My Project</h3>
 
 Welcome to my amazing project! This is a space where I share my ideas and hard work. Feel free to explore, contribute, and provide feedback.
 
